@@ -44,8 +44,8 @@ Companion Proceedings of the 28th International Conference on Intelligent User I
 *Duy Vu-Tran, __Phu-Thinh Pham__, Duc Do, An-Vinh Luong, Dinh Dien*   
 Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation, 2022.
 
-**Intent Detection and Slot Filling from Dependency Parsing Perspective: A Case Study in Vietnamese**
-*__Phu-Thinh Pham__, Duy Vu-Tran, Duc Do, An-Vinh Luong, Dien Dinh*
+**Intent Detection and Slot Filling from Dependency Parsing Perspective: A Case Study in Vietnamese**   
+*__Phu-Thinh Pham__, Duy Vu-Tran, Duc Do, An-Vinh Luong, Dien Dinh*     
 Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation, 2022.
 <!-- Preprints
 ====== -->
