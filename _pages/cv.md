@@ -16,7 +16,7 @@ Bachelor in *Computer Science*
 * Thesis: Integrating Label Attention into CRF-Based Vietnamese\
 Constituency Parser
 * Advisor: Assoc. Prof. Dien Dinh
-* GPA: 3.95/4.00, graduated with Excellent Degree
+* GPA: 3.92/4.00, graduated with Excellent Degree
 
 <h2 style="color:#87CEEB">Research experience</h2>
 <hr>
@@ -27,6 +27,10 @@ Constituency Parser
 
 <h2 style="color:#87CEEB">Publications</h2>
 <hr>
+
+**JPIS: A Joint Model for Profile-Based Intent Detection and Slot Filling with Slot-to-Intent Attention | 2023**   
+*__Thinh Pham__, Dat Quoc Nguyen*     
+Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024
 
 **MISCA: A Joint Model for Multiple Intent Detection and Slot Filling with Intent-Slot Co-Attention**   
 *__Thinh Pham__, Chi Bao Tran, Dat Quoc Nguyen*   
@@ -49,11 +53,8 @@ Proceedings of the 36th Pacific Asia Conference on Language, Information and Com
 Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation, 2022.
 <!-- Preprints
 ====== -->
-<h2 style="color:#87CEEB">Under Review</h2>
-<hr>
 
-**JPIS: A Joint Model for Profile-Based Intent Detection and Slot Filling with Slot-to-Intent Attention | 2023**   
-*__Thinh Pham__, Dat Quoc Nguyen*
+
   
 <!-- Talks
 ======
