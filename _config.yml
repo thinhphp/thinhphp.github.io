@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Thinh Pham"
   avatar           : "profile.png"
-  bio              : "AI Resident at VinAI Reseach"
-  location         : "Hanoi, Vietnam"
+  bio              : "PhD CS@VT"
+  location         : "Blacksburg, Virginia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=vi&user=BIfvNRUAAAAJ"
-  email            :
+  email            : thinhphp@vt.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
