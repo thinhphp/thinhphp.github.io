@@ -11,6 +11,10 @@ redirect_from:
 
 <h2 style="color:#87CEEB">Education</h2>
 <hr>
+**Virginia Tech, USA**, 2024 - present\
+PhD in *Computer Science*
+* Advisor: Prof. Tu Vu
+
 **University of Science, VNUHCM**, 2018 - 2022\
 Bachelor in *Computer Science*
 * Thesis: Integrating Label Attention into CRF-Based Vietnamese\
@@ -20,7 +24,7 @@ Constituency Parser
 
 <h2 style="color:#87CEEB">Research experience</h2>
 <hr>
-**AI Resident | 2018 - present**\
+**AI Resident | 2022 - 2024**\
 *VinAI Research*, Vietnam
 * Supervisor: Dr. Dat Quoc Nguyen
 * Research topic: Spoken Language Understanding, Multimodality

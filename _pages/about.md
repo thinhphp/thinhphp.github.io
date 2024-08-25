@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Thinh's homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, I am a first-year PhD student at [Virginia Tech](https://cs.vt.edu/) (VT), advised by Prof. [Tu Vu](https://tuvllms.github.io/). 
 
-I am an AI Resident at [VinAI Research](https://www.vinai.io/) under the supervision of [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/). Before that, I completed my bachelor's degree in Computer Science at University of Science, Vietnam National University, Ho Chi Minh city. I also won the second prize in Vietnamese Olympiad in Informatics, participated in National ACM ICPC competition, etc.
+Previously, I spent 2 years working as an AI Resident at [VinAI Research](https://www.vinai.io/) under the supervision of Dr. [Dat Quoc Nguyen](https://datquocnguyen.github.io/). Prior to that, I completed my bachelor's degree in Computer Science at University of Science, Vietnam National University, Ho Chi Minh city.
+<!-- I am deeply interested in natural language processing (NLP) and LLMs. I welcome the opportunity to expand my horizons and delve into new interesting topics. -->
 
-I have been actively engaged in Spoken Language Understanding. Since the appearance of ChatGPT, my research interests have changed around LLMs. I welcome the opportunity to expand my horizons and delve into new interesting topics.
+## 🔥 News and Highlights
+* [2024/08] Start my PhD journey at Virginia Tech with Prof. Tu Vu 🎉
