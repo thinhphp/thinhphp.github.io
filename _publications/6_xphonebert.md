@@ -6,7 +6,7 @@ venue: 'Proceedings of the 24th Annual Conference of the International Speech Co
 award: 
 year: 2023
 authors: 'Linh The Nguyen, <b>Thinh Pham</b>, Dat Quoc Nguyen'
-paper: "https://www.isca-speech.org/archive/pdfs/interspeech_2023/thenguyen23_interspeech.pdf"
+paper: "https://arxiv.org/pdf/2305.19709"
 code: "https://github.com/VinAIResearch/XPhoneBERT"
 blog: "https://www.vinai.io/xphonebert-a-pre-trained-multilingual-model-for-phoneme-representations-for-text-to-speech/"
 slide: 
