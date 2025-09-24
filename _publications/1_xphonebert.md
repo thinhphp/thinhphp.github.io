@@ -8,7 +8,7 @@ year: 2023
 authors: 'Linh The Nguyen, <b>Thinh Pham</b>, Dat Quoc Nguyen'
 paper: "https://arxiv.org/pdf/2305.19709"
 code: "https://github.com/VinAIResearch/XPhoneBERT"
-blog: "https://www.vinai.io/xphonebert-a-pre-trained-multilingual-model-for-phoneme-representations-for-text-to-speech/"
+blog:
 slide: 
 talk: 
 ---
